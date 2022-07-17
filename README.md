@@ -29,6 +29,8 @@ After Node is installed in your system, follow the below steps.
 
 
 ***NOTE:*** *The service workers for this app will only cache the site when it is in production mode.*
+Local:            http://localhost:3000
+  On Your Network:  http://192.168.56.1:3000
 
 ## How to run the project in Production Mode
 
