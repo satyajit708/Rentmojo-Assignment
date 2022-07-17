@@ -1,8 +1,6 @@
-# Games-Arena | Cogoport Frontend Developer Hiring Challenge
-Develop a pseudo front end application which would let the users help list and browse games developed for different platforms conveniently.
-
+# Games-Arena |
 ## How to run the project online
-Open the online demo [here](https://manishbisht.github.io/Games-Arena)
+
 
 ## Features
 
@@ -55,7 +53,7 @@ Sort by score (high to low)
 Suggestions
 ![Suggestions](screenshots/5.png)
 
-My website manishbisht.me is https only so click on load the unsafe scripts while checking the demo as the GAMES API is HTTP only.
+click on load the unsafe scripts while checking the demo as the GAMES API is HTTP only.
 
 ![Error0](screenshots/6.png)
 ![Error1](screenshots/7.png)
