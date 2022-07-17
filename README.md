@@ -27,7 +27,6 @@ After Node is installed in your system, follow the below steps.
 3. Now install all modules listed as dependencies in `package.json` by running the command `npm install`
 4. Launch the app with this command `npm start`
 
-A new browser window open automatically displaying the app.  If it doesn't, navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
 
 ***NOTE:*** *The service workers for this app will only cache the site when it is in production mode.*
 
